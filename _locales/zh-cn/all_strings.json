@@ -186,7 +186,11 @@
       "TM1650.showRunging|block": "滚动显示 %str |间隔(ms) %del",
       "TM1650.showHex|block": "显示十六进制数 %num",
       "TM1650.showDpAt|block": "是否显示小数点在 %bit |位 %show",
-      "TM1650.setIntensity|block": "设置亮度 %dat"  
-      
+      "TM1650.setIntensity|block": "设置亮度 %dat",
+      "{id:category}TM1650": "TM1650 数码管",
+      "{id:category}Asr_V3": "离线语音识别",
+      "{id:category}Speech": "语音合成",
+      "{id:category}ISD1820": "ISD1820 录音模块",
+      "{id:category}SuperBitV2": "SuperBitV2 扩展"  
   
-  }
+}
