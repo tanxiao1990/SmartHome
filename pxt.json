@@ -1,0 +1,25 @@
+{
+    "name": "智能家居项目",
+    "version": "1.0.0",
+    "description": "组合各类传感器的智能家居项目 V1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "speech.ts",
+        "tm1650.ts",
+        "isd1820.ts",
+        "superbit.ts",
+        "_locales/zh-cn/Asr_V3-strings.json",
+        "_locales/zh-cn/Speech-strings.json",
+        "_locales/zh-cn/tm1650-strings.json",
+        "_locales/zh-cn/SuperBitV2-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
