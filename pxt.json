@@ -4,7 +4,9 @@
     "description": "组合各类传感器的智能家居项目 V1.0.0",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel",
+        "microphone": "*"
     },
     "files": [
         "README.md",
@@ -18,5 +20,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true
+    "public": true,
+    "preferredEditor": "tsprj"
 }
