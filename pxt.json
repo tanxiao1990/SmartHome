@@ -1,15 +1,17 @@
 {
     "name": "smarthome",
     "title": "智能家居项目",
-    "version": "1.0.2",
-    "description": "组合各类传感器的智能家居项目 V1.0.2",
+    "version": "1.1.0",
+    "description": "组合各类传感器的智能家居项目 V1.1.0",
     "license": "MIT",
     "dependencies": {
         "core": "*",
         "neopixel": "github:lzty634158/pxt-neopixel",
+        "Asr_V3": "github:tanxiao1990/Asr_V3",
         "SpeechCN": "github:tanxiao1990/SpeechCN",
-        "tm1650": "github:YahboomTechnology/tm1650",
-        "pxt-oled": "github:pythom1234/pxt-oled",
+        "tm1650": "github:tanxiao1990/tm1650",
+        "pxt-oled": "github:tanxiao1990/pxt-oled",
+        "pxt-imageio": "github:tanxiao1990/pxt-imageio",
         "microphone": "*"
     },
     "files": [
