@@ -1,8 +1,8 @@
 {
     "name": "smarthome",
     "title": "智能家居项目",
-    "version": "1.1.4",
-    "description": "组合各类传感器的智能家居项目 V1.1.4",
+    "version": "1.1.5",
+    "description": "组合各类传感器的智能家居项目 V1.1.5",
     "license": "MIT",
     "dependencies": {
         "core": "*",
