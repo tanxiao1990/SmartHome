@@ -13,10 +13,7 @@
         "tm1650.ts",
         "isd1820.ts",
         "superbit.ts",
-        "_locales/zh-cn/Asr_V3-strings.json",
-        "_locales/zh-cn/Speech-strings.json",
-        "_locales/zh-cn/tm1650-strings.json",
-        "_locales/zh-cn/SuperBitV2-strings.json"
+        "_locales/zh-cn/all_strings.json"
     ],
     "testFiles": [
         "test.ts"
